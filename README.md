@@ -1,8 +1,7 @@
-<!-- Please update value in the {}  -->
-
-<h1 align="center">404NotFound - DevChallenges.io</h1>
-> Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+# 404NotFound - DevChallenges.io
+> Solution for a challenge from Devchallenges.io.
 ![readme-img](readme.png)
+
 <div align="center">
   <h3>
     <a href="https://thalesms2.github.io/404-not-found/">
